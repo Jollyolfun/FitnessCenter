@@ -1,0 +1,16 @@
+MAKE SURE THESE WORK AND WE AREN'T EMBARRASSED 👁️👄👁️:
+-insertion
+-deletion
+-updating course packages
+-queries
+-basically everything!!!
+
+todo:
+
+all hands on deck:
+-update insertion/deletion functions and make sure they correspond to tables since we've updated tables a few times (ex. inserting class, we added fields to class table)
+-figure out what to do with the NULL course record in a package that results when a course is deleted using the functions
+
+COLE/AUDREY:
+-TESTING!
+-add TAs to github for demo
